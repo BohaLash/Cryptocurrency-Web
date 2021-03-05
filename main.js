@@ -1,6 +1,7 @@
 console.log('hello main')
 var bc
 
+console.log('==========')
 console.log('Use [ connect_to_the_network(str: id) ] to connect to the network by any participants id')
 console.log('No metter what id you\'ll choose, you will be connected to everybody')
 console.log('BlockChain object will be downloaded to the [ bc ] varible')
